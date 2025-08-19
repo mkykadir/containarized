@@ -69,5 +69,3 @@ c. Create `.devcontainer/devcontainer.json` file inside your project's root dire
 d. Reopen your project inside the container
 
 e. Check VS Code [docs](https://code.visualstudio.com/docs/devcontainers/create-dev-container) for more details
-
-With this toolset you can keep your local environment very clean, you don't need to install any helper toolsets like Redis, Mongo or PostgreSQL, utilize their existing Docker images in your one-click development environment. Check `examples/compose-dev.yml` file for an example.

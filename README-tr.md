@@ -49,5 +49,3 @@ c. Projenizin içinde `.devcontainer/devcontainer.json` dosyasını oluşturun, 
 d. Projenizi konteyner içinde yeniden açın
 
 e. Daha fazla bilgi için VS Code [dokümantasyonunu](https://code.visualstudio.com/docs/devcontainers/create-dev-container) kontrol edebilirsiniz
-
-Bu kurulum yöntemiyle yerel çalışma ortamınızı temiz tutabilirsiniz, Redis, PostgreSQL gibi araçları bile yüklemeden onların hazır Docker imajlarıyla tek tuşla başlayan tam bir geliştirici ortamı kurabilirsiniz. `examples/compose-dev.yaml` dosyasından daha fazla bilgi alın.
